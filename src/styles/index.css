@@ -9,3 +9,41 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.post{
+    height: 30px;
+    width: 5px;
+    background: gray;
+}
+.lightGroup{
+    height: 950px;
+    width: 300px;
+    background: black;
+    padding: 5px;
+}
+.red{
+    background: red;
+    
+}
+.yellow{
+    background: yellow;
+}
+.green{
+    background: green;
+}
+.light{
+    border-radius: 50%;
+    height:290px;
+}
+.glow1{
+    box-shadow: 10px 10px 72px 31px rgba(249, 180, 166, 0.5);
+}
+.glow2{
+    box-shadow: 10px 10px 72px 31px rgba(253, 249, 186, 0.5);
+}
+.glow3{
+    box-shadow: 10px 10px 72px 31px rgba(202, 253, 186, 0.5);
+}
+.walk{
+    background: black;
+    font-size: 50px;
+}
